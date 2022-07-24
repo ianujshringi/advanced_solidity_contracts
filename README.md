@@ -19,7 +19,7 @@ This repository contains demonstration of some of advanced solidity & Defi conce
 </ol>
 </details>
 
-<details><summary><a href='ERC721 Token/'>5: ERC20 Token Standard</a></summary>
+<details><summary><a href='ERC721 Token/'>5: ERC721 Token Standard</a></summary>
  <ol>
   <li>
   <a href="ERC721 Token/IERC165.sol">ERC165 Interface</a>
@@ -34,7 +34,7 @@ This repository contains demonstration of some of advanced solidity & Defi conce
   <a href="ERC721 Token/ERC721.sol">ERC721 Contract</a>
   </li>
 </ol>
-</details> <br/>
+</details>
 
 [6: Multi Signature Wallet](./Multi%20Signature%20Wallet/)
 
