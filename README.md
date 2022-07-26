@@ -50,4 +50,5 @@ This repository contains demonstration of some of advanced solidity & Defi conce
 </details>
 
 [8: TimeLock Contract](./TimeLock%20Contract/)  
-[9: WETH Contract](./WETH%20Contract/)
+[9: WETH Contract](./WETH%20Contract/)  
+[9: Vault Contract](./Vault%20Contract/)
