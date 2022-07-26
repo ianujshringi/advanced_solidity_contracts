@@ -48,3 +48,5 @@ This repository contains demonstration of some of advanced solidity & Defi conce
   </li>
 </ol>
 </details>
+
+[8: TimeLock Contract](./TimeLock%20Contract/)
