@@ -52,3 +52,14 @@ This repository contains demonstration of some of advanced solidity & Defi conce
 [8: TimeLock Contract](./TimeLock%20Contract/)  
 [9: WETH Contract](./WETH%20Contract/)  
 [9: Vault Contract](./Vault%20Contract/)
+
+<details><summary><a href='Automated Market Maker/'>7: Automated Market Maker Contracts</a></summary>
+ <ol>
+  <li>
+  <a href="Automated Market Maker/CSAMM.sol">Constant Sum Automated Market Maker</a>
+  </li>
+  <li>
+  <a href="Automated Market Maker/CPAMM.sol">Constant Product Automated Market Maker</a>
+  </li>
+</ol>
+</details>
